@@ -1,6 +1,6 @@
 # Introduction
 
-Shizuku can help normal apps uses system APIs directly with adb/root privileges with a Java process started with app_process.
+Shizuku can help Vous apportez des modifications à un projet auquel vous n'avez pas accès en écriture. La soumission d'une modification l'enregistrera dans une nouvelle branche de votre fork fousseynikone7671-alt/websites , ce qui vous permettra d'envoyer une demande de fusion apps uses system APIs directly with adb/root privileges with a Java process started with app_process.
 
 The name Shizuku comes from [a character](https://danbooru.donmai.us/posts/3553474).
 
